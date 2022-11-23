@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "handlebars": "^4.7.7",
+    "jsonwebtoken": "^8.5.1",
+    "method-override": "^3.0.0",
+    "mongoose": "^6.7.3",
+    "nodemailer": "^6.8.0",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0",
+    "passport-local-mongoose": "^7.1.2"
+  },
+  "name": "full-auth-system-with-passport",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "passport",
+    "auth",
+    "authentication",
+    "express",
+    "node"
+  ],
+  "author": "udegbunam emmanuel",
+  "license": "ISC",
+  "description": "full-auth-api-passport",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feevah002/full-auth-api-passport.git"
+  },
+  "bugs": {
+    "url": "https://github.com/feevah002/full-auth-api-passport/issues"
+  },
+  "homepage": "https://github.com/feevah002/full-auth-api-passport#readme"
+}
